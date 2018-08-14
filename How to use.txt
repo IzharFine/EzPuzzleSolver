@@ -4,6 +4,5 @@ var arr='0,[1, 18, 1, 0]; 1,[8, 10, 2, 19]; 2,[0, 8, 18, 11]; 3,[0, 5, 3, 16]; 4
 function solvePuzzle(cards){
         var board = new Board(); // Creates the board obj.
         board.insertCards(cards); // Insert the cards into the board.
-        board.orderCards(0); // Starting ordering the cards.
         return board; // Return the board after finish to order.
 }

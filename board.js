@@ -39,6 +39,7 @@ class Board {
         }
         this.size=Math.sqrt(cardsArr.length);
         this.length=cardsArr.length;
+        this.orderCards(0);
     }
 
     orderCards(position){
