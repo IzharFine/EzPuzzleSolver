@@ -200,7 +200,6 @@ class Board {
                     }
                 }
                 if(foundFlag){
-                    //position++;
                     this.orderCards(++position);
                     break;
                 }
