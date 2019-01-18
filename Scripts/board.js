@@ -38,7 +38,7 @@ class Board {
                 break;
             }
         }
-        this.size=Math.sqrt(cardsArr.length);
+        this.size=Math.sqrt(cardsArr.length+1);
         this.length=cardsArr.length;
     }
 
