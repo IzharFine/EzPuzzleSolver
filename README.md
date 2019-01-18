@@ -1,5 +1,5 @@
 Script I built to solve "Check-Point" challenge.
-''
+```
 For	instance,	consider	the	following	shuffled	board:
 ------------------------------------
 |		\ 0		/		||		\ 0		/		||		\ 5		/		|
@@ -55,4 +55,4 @@ Now	consider	the	top-middle	piece.	In	the	string,	it	corresponds	to	'1,0'.	That	
 number	1	from	the	input:
 1,[0,	7,	6,	19]
 And	we	don't	rotate	it	at	all	(that	is,	rotate	it	0	times)	- as	it's	already	in	the	right	direction.
-''
+```
