@@ -1,7 +1,7 @@
 ### Script I built to solve "Check-Point" july 2018 puzzle challenge. <br/>
 Demo: https://izharfine.github.io/PuzzleSolver/
 
-The challenge:
+### The challenge:
 At last, we've found you! We must solve this puzzle, and according to the prophecy - you are the one to solve it.
 This puzzle is weird. It consists of a board with 10 columns and 10 rows, so there are 100 pieces.Yet, each piece is weird! It has four
 'slices' - a top slice, a right slice, a bottom slice and a left slice. Each slice consists of a number. For example, consider this piece:
