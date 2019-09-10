@@ -2,6 +2,7 @@
 Demo: https://izharfine.github.io/PuzzleSolver/
 
 ### The challenge:
+```
 At last, we've found you! We must solve this puzzle, and according to the prophecy - you are the one to solve it.
 This puzzle is weird. It consists of a board with 10 columns and 10 rows, so there are 100 pieces.Yet, each piece is weird! It has four
 'slices' - a top slice, a right slice, a bottom slice and a left slice. Each slice consists of a number. For example, consider this piece:
@@ -101,3 +102,4 @@ The puzzle we have is:
 3]; 88,[3, 19, 11, 6]; 89,[20, 17, 0, 16]; 90,[5, 12, 17, 2]; 91,[12, 16, 0, 15]; 92,[18, 12, 8, 2]; 93,[13, 0, 0, 11]; 94,[18, 8, 4, 1]; 95,[7, 0, 5,
 4]; 96,[3, 11, 20, 14]; 97,[2, 10, 18, 10]; 98,[11, 4, 0, 9]; 99,[0, 0, 17, 17]
 Good luck!
+```
